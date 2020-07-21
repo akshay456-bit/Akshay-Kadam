@@ -1,0 +1,21 @@
+1)what is your understanding of block chain?
+It’s a decentralized and secured place to store large amount of data with create and read operations and it is tamper proof and transparent
+
+2)what is the core problem the block chain is trying to solve?
+The block chain is trying to remove third party people and it was able to give security and authenticity for the stored data
+
+3)features of block chain?
+- Authentic
+- secured
+- Tamper proof
+- Immutable
+
+4) What all things does a Block chain contains?
+Each block contains has
+1. Block Number
+2. Transactions
+3. Previous Block Signature
+
+5) How is verifiability of the Block chain has been attained?
+The block will have form the its signature by encoding the it’s current block data and previous block signature thus they are attached even if someone tries to change the contents then we could be able to know
+In another case same set of blocks can be stored in multiple places where if any changes have happened in one set we could replace by comparing with other set of same blocks.
